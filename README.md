@@ -35,6 +35,12 @@ Listing RUNE benefits the Aave community in the following ways:
 
 ## Specifications
 
+NB: At this moment, the majority of RUNE is based on Binance Chain as a BEP2
+asset. This will soon migrate to a token native to the THORChain. There is also
+a significant portion of RUNE bridged to Ethereum as an ERC-20. For the sake of
+providing adequate context, I will provide data about the BEP2 asset as well as
+the asset in question, ERC-20 RUNE.
+
 ### What is the link between the author of the AIP and the Asset?
 
 Oaksprout is a long-term community member of THORChain and holder of RUNE. He has also spent a lot of time in the Aave community and holds AAVE.
@@ -79,8 +85,20 @@ inflation after 10 years.
 
 ### Social channels data (Size of communities, activity on Github)
 
+- Gitlab activity – no summary data available – [check Activity page](https://gitlab.com/groups/thorchain/-/activity)
+- THORChain Twitter – [36.1k Followers](https://twitter.com/thorchain_org)
+- LunarCrush – [65.5](https://lunarcrush.com/coins/rune/thorchain?section=galaxy-score&interval=1%20Year)
+- THORChain Telegram – [7,553 members](https://t.me/thorchain_org)
+
 ### Contracts date of deployments, number of transactions, number of holders for tokens
 
 ## Technical Specifications
 
 ## Security Considerations
+
+---
+
+## Questions
+
+- what is required in the "Token permissions and upgradability" section?
+-
