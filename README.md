@@ -25,6 +25,10 @@ We propose to list THORChain's token RUNE as an asset on Aave.
 
 - [communities](https://t.me/thorchain_org)
 
+## Paragraph Summary
+
+RUNE has recently been growing its economic bandwidth on Ethereum. [Myself and other community members](https://twitter.com/tannedoaksprout/status/1355565212972281856) have expressed a desire to be able to use the ERC-20 asset as collateral for lending. Aave is the premier credit facility in crypto, and so here is a listing proposal for the community’s review.
+
 ## Motivation
 
 Listing RUNE benefits the Aave community in the following ways:
@@ -54,6 +58,32 @@ THORChain has been live with mainnet assets since September 2020 and its flagshi
 The project is built on tried-and-tested technical and economic primitives, including Tendermint BFT, Cosmos SDK, Gennaro and Goldfeder’s Threshold Signature Scheme (TSS) and a variant on Uniswap’s constant function market making formula.
 
 ### Explain positioning of token in the AAVE ecosystem. Why would it be a good borrow or collateral asset?
+
+I believe RUNE is a unique asset in that it is both a desirable collateral
+**and** borrow asset. This is due to 2 main elements of its unique design:
+
+1. strong value accrual design and deterministic price floor – desirable collateral asset
+2. its price is tied to the deepest liquidity assets in crypto, and therefore
+   market neutral – desirable borrow asset
+
+RUNE is a desirable collateral asset due to its unique economic design. THORChain provides competitive long-term yield for large cap assets, and efficiently converts that
+liquidity into RUNE market cap through a unique economic design. All this
+amounts to an asset with extremely high upside potential.
+
+Additionally, THORChain's economic model requires that $3 of RUNE is staked for
+every $1 of pooled asset, e.g. BTC. This means that with time, a deterministic
+price floor will emerge, i.e. collateral providers will always have a solid
+price floor to plan from.
+
+RUNE is a desirable borrow asset because of its wide and deep market exposure.
+Given that RUNE is the settlement asset of the network, its price volatility is
+tied to the liquidity levels and prices of connected assets. THORChain optimises
+for sucking in liquidity from the largest cap assets. Given this, RUNE is likely
+to become market neutral to the entirety of the crypto market. For this reason,
+RUNE stands a good chance of becoming a desirable borrow asset given its
+_relative_ stability to the rest of crypto, and to the assets on Aave.
+
+For these reasons I believe RUNE represents unique benefits to the Aave ecosystem.
 
 ### Provide a brief history of the project and how it overcame stressed conditions
 
