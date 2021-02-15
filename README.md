@@ -95,6 +95,24 @@ For these reasons I believe RUNE represents unique benefits to the Aave ecosyste
 
 ### How is the asset currently used?
 
+ERC-20 RUNE is predominantly used as a source of liquidity on Sushiswap. There, RUNE is
+pooled with ~a dozen major DeFi assets including AAVE.
+
+Recently 10m RUNE was bridged over to Ethereum by the THORChain team to meet
+demand. That is mostly still sitting in the deployer contract, waiting to be
+used on Ethereum.
+
+See the breakdown below. Note that several of the largest uses of RUNE are on
+Sushiswap, but a significant part remains ununused.
+
+![](https://i.imgur.com/YlZOuxr.png)
+
+BEP2 RUNE is roughly 30% deployed, on Binance Chain. See the breakdown below:
+
+![](https://i.imgur.com/nVmSEe1.png)
+
+Source: Delphi Digital THORChain Dashboard
+
 ### Emission schedule
 
 Current circulating supply of RUNE is 238,275,761. Total circulating supply will
@@ -135,6 +153,8 @@ inflation after 10 years.
 ## Technical Specifications
 
 ## Security Considerations
+
+The RUNE token doesn’t have any specific behaviour (eg. rebasing, balance increasing) and doesn’t offer meta governance functionality. Therefore, the standard AToken contract and corresponding debt tokens, already used for the majority of assets listed in Aave, can be also used for RUNE. No auditing of the code is required.
 
 ---
 
