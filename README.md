@@ -128,6 +128,10 @@ inflation after 10 years.
 
 ### Contracts date of deployments, number of transactions, number of holders for tokens
 
+- Token contract deployed Jan-13-2021 04:17:27 AM +UTC – [Transaction](https://etherscan.io/tx/0xcb1088b48bca2aaf34e51c9a3629153762bda0cee4b0154464830e1a79f2f16f)
+- Total transactions at 15 Feb 10:26 UTC – [21,067](https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb)
+- Token Holders at 15 Feb 10:26 UTC – [1,955](https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb#balances)
+
 ## Technical Specifications
 
 ## Security Considerations
