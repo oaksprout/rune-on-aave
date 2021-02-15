@@ -93,6 +93,19 @@ For these reasons I believe RUNE represents unique benefits to the Aave ecosyste
 
 ### Provide a brief history of the project and how it overcame stressed conditions
 
+THORChain was founded in 2018 by an anonymous group of developers. Note that
+anonymity is important design choice in securing the network.
+
+THORChain's [single chain chaosnet](https://chaosnet.bepswap.com), using mainnet assets,
+was released in late August, 2020. There were minor issues with this release,
+but the team responded quickly and decisively. What's more, this release was a
+part of a "guarded launch" which intentionally aims to progressively increase
+capital at stake to battle test in a real-world environment.
+
+The team recently released [multichain
+testnet](https://testnet.asgard.exchange), again using the same pragmatic
+"guarded launch" approach.
+
 ### How is the asset currently used?
 
 ERC-20 RUNE is predominantly used as a source of liquidity on Sushiswap. There, RUNE is
