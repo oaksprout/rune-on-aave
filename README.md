@@ -33,9 +33,10 @@ RUNE has recently been growing its economic bandwidth on Ethereum. [Myself and o
 
 Listing RUNE benefits the Aave community in the following ways:
 
-1. First-Mover: RUNE has only recently been made available as an ERC-20 asset, and Aave would be the first venue to make RUNE borrowing available.
-2. Community and New Users: The THORChain community is extremely strong, vocal and eager to support related projects. This listing would bring a strong influx of new users.
-3. Economic Bandwidth: the total economic value available in THORChain is approaching $1bn, up from ~$85m just 90 days ago.
+1. Unique Properties: RUNE has properties which makes it desirable as both a
+   collateral and borrow asset (discussed in detail later).
+2. First-Mover: RUNE has only recently been made available as an ERC-20 asset, and Aave would be the first venue to make RUNE borrowing available.
+3. Community and New Users: The THORChain community is extremely strong, vocal and eager to support related projects. This listing would bring a strong influx of new users.
 
 ## Specifications
 
