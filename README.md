@@ -59,21 +59,25 @@ The project is built on tried-and-tested technical and economic primitives, incl
 
 ### Explain positioning of token in the AAVE ecosystem. Why would it be a good borrow or collateral asset?
 
-I believe RUNE is a unique asset in that it is both a desirable collateral
-**and** borrow asset. This is due to 2 main elements of its unique design:
+RUNE is a unique asset in that it is both a desirable collateral
+**and** borrow asset. This is due to 2 main elements of its novel design:
 
 1. strong value accrual design and deterministic price floor – desirable collateral asset
-2. its price is tied to the deepest liquidity assets in crypto, and therefore
+2. RUNE price is tied to the deepest liquidity assets in crypto, and therefore
    market neutral – desirable borrow asset
 
-RUNE is a desirable collateral asset due to its unique economic design. THORChain provides competitive long-term yield for large cap assets, and efficiently converts that
+#### Desirable Collateral Asset
+
+THORChain provides competitive long-term yield for large cap assets, and efficiently converts that
 liquidity into RUNE market cap through a unique economic design. All this
 amounts to an asset with extremely high upside potential.
 
 Additionally, THORChain's economic model requires that $3 of RUNE is staked for
 every $1 of pooled asset, e.g. BTC. This means that with time, a deterministic
 price floor will emerge, i.e. collateral providers will always have a solid
-price floor to plan from.
+price floor to plan around.
+
+#### Desirable Borrow Asset
 
 RUNE is a desirable borrow asset because of its wide and deep market exposure.
 Given that RUNE is the settlement asset of the network, its price volatility is
