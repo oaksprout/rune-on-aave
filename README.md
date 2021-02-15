@@ -32,7 +32,8 @@ Listing RUNE benefits the Aave community in the following ways:
 
 **Specifications**
 
-_What is the link between the author of the AIP and the Asset?_ Oaksprout is a long-term community member of THORChain and holder of RUNE. He has also spent a lot of time in the Aave community and holds AAVE.
+_What is the link between the author of the AIP and the Asset?_
+Oaksprout is a long-term community member of THORChain and holder of RUNE. He has also spent a lot of time in the Aave community and holds AAVE.
 
 _Provide a brief high-level overview of the project and the token_
 THORChain is a decentralised network focused on bringing liquidity to cross-chain assets. It does this using a simple Uniswap-like automated market maker (AMM) design. Some have called it “Uniswap for the multichain world”.
