@@ -70,7 +70,8 @@ RUNE is a unique asset in that it is both a desirable collateral
 
 THORChain provides competitive long-term yield for large cap assets, and efficiently converts that
 liquidity into RUNE market cap through a unique economic design. All this
-amounts to an asset with extremely high upside potential.
+amounts to an asset with extremely high upside potential. This is desirable as
+collateral as it makes it easier and more efficient to manage collateral postions.
 
 Additionally, THORChain's economic model requires that $3 of RUNE is staked for
 every $1 of pooled asset, e.g. BTC. This means that with time, a deterministic
