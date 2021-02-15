@@ -79,8 +79,20 @@ inflation after 10 years.
 
 ### Social channels data (Size of communities, activity on Github)
 
+- Gitlab activity – no summary data available – [check Activity page](https://gitlab.com/groups/thorchain/-/activity)
+- THORChain Twitter – [36.1k Followers](https://twitter.com/thorchain_org)
+- LunarCrush – [65.5](https://lunarcrush.com/coins/rune/thorchain?section=galaxy-score&interval=1%20Year)
+- THORChain Telegram – [7,553 members](https://t.me/thorchain_org)
+
 ### Contracts date of deployments, number of transactions, number of holders for tokens
 
 ## Technical Specifications
 
 ## Security Considerations
+
+---
+
+## Questions
+
+- what is required in the "Token permissions and upgradability" section?
+-
