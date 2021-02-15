@@ -1,3 +1,8 @@
+_This proposal follows the [ARC template for Asset Onboarding](https://docs.aave.com/governance/aip-templates/template-asset-onboarding) laid out in the
+Aave Governance documentation._
+
+---
+
 ## Sentence Rational
 
 We propose to list THORChain's token RUNE as an asset on Aave.
@@ -35,6 +40,7 @@ Listing RUNE benefits the Aave community in the following ways:
 Oaksprout is a long-term community member of THORChain and holder of RUNE. He has also spent a lot of time in the Aave community and holds AAVE.
 
 ### Provide a brief high-level overview of the project and the token
+
 THORChain is a decentralised network focused on bringing liquidity to cross-chain assets. It does this using a simple Uniswap-like automated market maker (AMM) design. Some have called it “Uniswap for the multichain world”.
 
 THORChain has been live with mainnet assets since September 2020 and its flagship multichain network is scheduled to go to testnet imminently.
@@ -42,13 +48,30 @@ THORChain has been live with mainnet assets since September 2020 and its flagshi
 The project is built on tried-and-tested technical and economic primitives, including Tendermint BFT, Cosmos SDK, Gennaro and Goldfeder’s Threshold Signature Scheme (TSS) and a variant on Uniswap’s constant function market making formula.
 
 ### Explain positioning of token in the AAVE ecosystem. Why would it be a good borrow or collateral asset?
-wefertasdlkjasdasdf
 
 ### Provide a brief history of the project and how it overcame stressed conditions
 
 ### How is the asset currently used?
 
 ### Emission schedule
+
+Current circulating supply of RUNE is 238,275,761. Total circulating supply will
+be 500 million.
+
+Current circulating supply of RUNE in ERC-20 form is 10,075,916. Current maximum
+supply on Ethereum is 20 million. This number was recently doubled from
+10 million.
+
+Figures sourced from CoinGecko data on [BEP2
+RUNE](https://www.coingecko.com/en/coins/thorchain) and [ERC-20
+RUNE](https://www.coingecko.com/en/coins/thorchain-erc20). [See further details
+on THORChain's](https://governance.aave.com/t/listing-proposal-add-rune-erc-20-thorchain/2239/4?u=oaksprout) ERC-20 version of RUNE.
+
+THORChain rewards early behaviour by giving out RUNE to active participants. It
+gives out 1/6 of its reserve each year. THORChain aims to reach 2% annual
+inflation after 10 years.
+
+![THORChain Emission Curve Over 10 Years](https://cdn.sanity.io/images/6vy4jhfn/production/74a2ff473174aaa37eb02499abcc656c587584ba-1356x808.png)
 
 ### Token permissions and upgradability
 
