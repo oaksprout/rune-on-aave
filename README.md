@@ -148,7 +148,21 @@ inflation after 10 years.
 
 ### Token permissions and upgradability
 
-### Market data (Market Cap, 24h Volume, Volatility, Exchanges, Maturity)
+RUNE is a standard ERC-20 token.
+
+### Market data
+
+**ERC-20 RUNE**
+Market Cap: $39,024,796
+24h Volume:$4,574,264
+Exchanges: Sushiswap, Uniswap
+
+**BEP-2 RUNE**
+Market Cap: $901,001,962
+24h Volume: $50,452,370
+Exchanges: Binance, FTX, BitMax, Hotbit
+
+More info on [the relationship between ERC-20 and BEP-2 RUNE](https://governance.aave.com/t/listing-proposal-add-rune-erc-20-thorchain/2239/4?u=oaksprout).
 
 ### Social channels data (Size of communities, activity on Github)
 
@@ -163,15 +177,10 @@ inflation after 10 years.
 - Total transactions at 15 Feb 10:26 UTC – [21,067](https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb)
 - Token Holders at 15 Feb 10:26 UTC – [1,955](https://etherscan.io/token/0x3155ba85d5f96b2d030a4966af206230e46849cb#balances)
 
-## Technical Specifications
+## Technical Specifications & Security Considerations
 
-## Security Considerations
-
-The RUNE token doesn’t have any specific behaviour (eg. rebasing, balance increasing) and doesn’t offer meta governance functionality. Therefore, the standard AToken contract and corresponding debt tokens, already used for the majority of assets listed in Aave, can be also used for RUNE. No auditing of the code is required.
-
----
-
-## Questions
-
-- what is required in the "Token permissions and upgradability" section?
--
+The RUNE token doesn’t have any specific behaviour (eg. rebasing, balance
+increasing) and doesn’t offer meta governance functionality. Therefore, the
+standard AToken contract and corresponding debt tokens, already used for the
+majority of assets listed in Aave, can be also used for RUNE. No auditing of the
+code is required.
